@@ -1,0 +1,7 @@
+#timer-wrap {
+    border-style:dotted;
+    border-radius:25rem;
+
+    padding: 0.5rem 1rem 1.5rem 1rem;
+    align-items: center;
+}

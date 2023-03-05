@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  background-color: rgb(238, 144, 57);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+h1 {
+  color: rgb(3, 3, 3);
+}
+h2 {
+  color:rgb(9, 9, 9);
+}
+h3 {
+  color: rgb(2, 2, 2);
+}
